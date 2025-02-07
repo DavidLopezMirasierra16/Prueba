@@ -1,3 +1,4 @@
+
 * {
   width: 90%;
   background-color: black;
@@ -5,4 +6,8 @@
 
 footer {
   background-color: aqua;
-}/*# sourceMappingURL=prueba.css.map */
+
+body {
+  color: white;
+}
+}

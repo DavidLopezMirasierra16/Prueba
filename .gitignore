@@ -20,5 +20,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
-prueba.css
+
 prueba.css.map
+prueba.css
