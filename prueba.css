@@ -1,1 +1,8 @@
-/*# sourceMappingURL=prueba.css.map */
+* {
+  width: 90%;
+  background-color: black;
+}
+
+footer {
+  background-color: aqua;
+}/*# sourceMappingURL=prueba.css.map */
